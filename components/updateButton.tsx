@@ -16,7 +16,7 @@ const UpdateButton = () => {
   }, [fetchNetworkInfo]);
 
   return (
-    <View className="h-1/6 w-5/6 pb-10">
+    <View className="h-1/6 w-5/6 pb-10 mb-10">
       <TouchableOpacity
         className="bg-blue-500 rounded-2xl flex items-center justify-center h-full"
         onPress={buttonHandler}

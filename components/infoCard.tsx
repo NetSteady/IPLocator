@@ -49,7 +49,7 @@ export default function InfoCards() {
   }
 
   return (
-    <View className="flex items-center justify-start pt-20 h-5/6">
+    <View className="flex items-center justify-start pt-20 h-3/7">
       {connections.map((connection, index) => (
         <View
           key={index}
