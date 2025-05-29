@@ -24,7 +24,7 @@
 
 ## 🛠 Requirements
 
-- Android 12.0 ("S") or higher
+- Most recent version of Android
 - No root required
 - Permissions:
   - `ACCESS_NETWORK_STATE` (to view network info)
