@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- 🔍 **View IP addresses** for active connections
+- 🔍 **View IP addresses** for active connections, and the ability to test the speed of the active connection
 - 📶 Supports Wi-Fi, Cellular, and other network interfaces
 - 📱 Compatible with phones and tablets
 - ⚡ Fast, minimal, and easy to use — no setup required
